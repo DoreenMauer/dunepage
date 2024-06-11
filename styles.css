@@ -1,0 +1,18 @@
+body{
+    background-image: url('dunebg1.jpg');
+}
+.welcometext{
+    text-align: right;
+    font-family: serif;
+    font-weight: lighter;
+
+}
+.title{
+    text-align: center;
+    text-transform: capitalize;
+    font-family: fantasy;
+}
+.gallery p{
+    display: inline-block;
+    margin: 0 auto;
+}
